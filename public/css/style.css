@@ -1,0 +1,29 @@
+.message-container{
+    padding: 15px;
+    background: #fff;
+    border-radius: 5px;
+}
+.media-body small{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1;
+    color: #777;
+}
+.chat-div{
+    margin-bottom: 40px;
+    background: #eee;
+    padding: 15px;
+    border-radius: 10px;
+}
+.chat-div-private{
+    margin-top:40px;
+}
+.chat-thumbnail{
+    display: block;
+    float:left;
+}
+.chat-info-container{
+    float:left;
+    line-height:25px;
+    padding-left:30px;
+}
